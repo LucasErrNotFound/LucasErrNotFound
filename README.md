@@ -10,7 +10,7 @@
 <h2 align="center">About Me</h2>
 
 - 🎓 I’m currently a 4th-year BSIT student at STI College Santa Rosa
-- ⚙️ My interests revolve around low-level programming with C, C++, and Rust, desktop development using C# with Avalonia, Linux, full-stack web basics (HTML, CSS, JavaScript), TUI applications, and recreational programming
+- ⚙️ My interests revolve around low-level programming with C, C++, and Rust, desktop development using C# with Avalonia or WPF, Linux, web-dev trinity (HTML, CSS, JavaScript), TUI applications, and recreational programming
 - 🌐 I speak Filipino 🇵🇭 and English 🇺🇸
 - 📚 I’m strongly driven by continuous learning, self-improvement, open collaboration, and contributing to open-source projects
 - 🚀 Always curious, always building—whether it’s experimenting with new tools, refining my skills, or working on side projects that push me to grow
