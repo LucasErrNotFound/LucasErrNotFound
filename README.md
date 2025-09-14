@@ -54,7 +54,7 @@
   <br><div style="padding-bottom: 4px;"></div>
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css&logoColor=white)
-- IDE/Text Editor That I'm familiar with
+- IDEs/Text Editors that I love to use
   <br><div style="padding-bottom: 4px;"></div>
   [![Neovim](https://img.shields.io/badge/Neovim-black?logo=neovim&logoColor=57A143)](#)
   [![Vim](https://img.shields.io/badge/Vim-black.svg?logo=vim&logoColor=019733)](#)
