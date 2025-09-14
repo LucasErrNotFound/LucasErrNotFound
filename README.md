@@ -78,3 +78,5 @@
 ![LucasErrNotFound's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErrNotFound&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+
+[![AHON-TRACK](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&theme=gruvbox&repo=AHON-TRACK)](https://github.com/LucasErrNotFound/AHON-TRACK)
