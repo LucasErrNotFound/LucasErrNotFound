@@ -7,7 +7,7 @@
 
 </div>
 
-<h2 align="center">About Me</h2>
+<h2 align="center"> 📰 About Me 📰 </h2>
 
 - 🎓 I’m currently a 4th-year BSIT student at STI College Santa Rosa
 - ⚙️ My interests revolve around low-level programming with C, C++, and Rust, desktop development using C# with Avalonia or WPF, Linux, web-dev trinity (HTML, CSS, JavaScript), TUI applications, and recreational programming
@@ -15,7 +15,7 @@
 - 📚 I’m strongly driven by continuous learning, self-improvement, open collaboration, and contributing to open-source projects
 - 🚀 Always curious, always building—whether it’s experimenting with new tools, refining my skills, or working on side projects that push me to grow
 
-<h2 align="center">Languages & Tools</h2>
+<h2 align="center"> 🍀 Languages & Tools 🍀 </h2>
 
 - My favorite languages are
   <br><div style="padding-bottom: 4px;"></div>
@@ -72,26 +72,19 @@
 <br>
 <p align="center">
   <div align="center">
-    <a href="https://github.com/LucasErrNotFound/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=LucasErrNotFound&theme=gruvbox&bg_color=1D2021&show_icons=true&hide_border=true" alt="LucasErrNotFound" />
-    </a>
-    <a href="https://github.com/LucasErrNotFound/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=LucasErrNotFound&show_icons=true&theme=gruvbox&background=1D2021&hide_border=true" />
-    </a>
+    <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=LucasErrNotFound&theme=gruvbox&bg_color=1D2021&show_icons=true&hide_border=true" alt="LucasErrNotFound" />
+    <img align="right" width=390 src="https://streak-stats.demolab.com/?user=LucasErrNotFound&show_icons=true&theme=gruvbox&background=1D2021&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/LucasErrNotFound/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErrNotFound&theme=gruvbox&bg_color=1D2021&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&font_weight=Bold" />
-    </a>
-    
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErrNotFound&theme=gruvbox&bg_color=1D2021&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&font_weight=Bold" />
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasErrNotFound&theme=gruvbox&title_color=FABD2F&color=B8BB26&bg_color=1D2021&point=DB4934&hide_border=true" width="100%"/>
 </p>
 
 <div align="center">
-<h2>Repositories</h2>
+<h2> 🔥 Repositories 🔥 </h2>
 
 [![AHON-TRACK](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=AHON-TRACK)](https://github.com/LucasErrNotFound/AHON-TRACK)
 [![Vid2Audio](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=Vid2Audio)](https://github.com/LucasErrNotFound/Vid2Audio)
