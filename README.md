@@ -68,16 +68,27 @@
   [![OpenSuse](https://img.shields.io/badge/-OpenSuse-black?logo=opensuse)](#)
   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
   
-<div align="center" style="display: flex;">
-
-<h2>Statistics</h2>
-
-<!-- Top Langs -->
-![LucasErrNotFound's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasErrNotFound&theme=gruvbox&hide_border=true)
-![LucasErrNotFound's Stats](https://github-readme-stats.vercel.app/api?username=LucasErrNotFound&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![LucasErrNotFound's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErrNotFound&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-
-</div>
+<h2 align="center">⚡ Statistics ⚡</h2>
+<br>
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/LucasErrNotFound/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=LucasErrNotFound&theme=gruvbox&bg_color=1D2021&show_icons=true&hide_border=true" alt="LucasErrNotFound" />
+    </a>
+    <a href="https://github.com/LucasErrNotFound/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=LucasErrNotFound&show_icons=true&theme=gruvbox&background=1D2021&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/LucasErrNotFound/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasErrNotFound&theme=gruvbox&bg_color=1D2021&langs_count=8&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&font_weight=Bold" />
+    </a>
+    
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasErrNotFound&theme=gruvbox&title_color=FABD2F&color=B8BB26&bg_color=1D2021&point=DB4934&hide_border=true" width="100%"/>
+</p>
 
 <div align="center">
 <h2>Repositories</h2>
