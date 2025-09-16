@@ -73,7 +73,7 @@
 <p align="center">
   <div align="center">
     <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=LucasErrNotFound&theme=gruvbox&bg_color=1D2021&show_icons=true&hide_border=true" alt="LucasErrNotFound" />
-    <img align="right" width=390 src="https://streak-stats.demolab.com/?user=LucasErrNotFound&show_icons=true&theme=gruvbox&background=1D2021&hide_border=true" />
+    <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=LucasErrNotFound&theme=gruvbox&hide_border=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
@@ -82,6 +82,8 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasErrNotFound&theme=gruvbox&title_color=FABD2F&color=B8BB26&bg_color=1D2021&point=DB4934&hide_border=true" width="100%"/>
 </p>
+
+![LucasErrNotFound's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasErrNotFound&theme=gruvbox&hide_border=true)
 
 <div align="center">
 <h2> 🔥 Repositories 🔥 </h2>
