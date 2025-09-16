@@ -83,8 +83,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasErrNotFound&theme=gruvbox&title_color=FABD2F&color=B8BB26&bg_color=1D2021&point=DB4934&hide_border=true" width="100%"/>
 </p>
 
-![LucasErrNotFound's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasErrNotFound&theme=gruvbox&hide_border=true)
-
 <div align="center">
 <h2> 🔥 Repositories 🔥 </h2>
 
