@@ -86,12 +86,13 @@
 <h2> 🔥 Projects 🔥 </h2>
 
 [![AHON-TRACK](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=AHON-TRACK)](https://github.com/LucasErrNotFound/AHON-TRACK)
-[![Vid2Audio](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=Vid2Audio)](https://github.com/LucasErrNotFound/Vid2Audio)
+[![Pyro](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=Pyro)](https://github.com/LucasErrNotFound/Pyro)
 [![moviefy](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=moviefy)](https://github.com/LucasErrNotFound/moviefy)
 [![WebAutoSearch](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=WebAutoSearch)](https://github.com/LucasErrNotFound/WebAutoSearch)
 [![Clipject](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=Clipject)](https://github.com/LucasErrNotFound/Clipject)
 [![filch](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&description_lines_count=8&repo=filch)](https://github.com/LucasErrNotFound/filch)
 [![C-Calculator](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&description_lines_count=8&repo=Console-Calculator-With-Pointers)](https://github.com/LucasErrNotFound/Console-Calculator-With-Pointers)
+[![Vid2Audio](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&description_lines_count=8&repo=Vid2Audio)](https://github.com/LucasErrNotFound/Vid2Audio)
 [![Neovim-Config](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&description_lines_count=8&repo=Neovim-Config)](https://github.com/LucasErrNotFound/Neovim-Config)
 
 </div
