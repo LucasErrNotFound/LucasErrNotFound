@@ -87,6 +87,7 @@
 
 [![AHON-TRACK](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=AHON-TRACK)](https://github.com/LucasErrNotFound/AHON-TRACK)
 [![Pyro](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=Pyro)](https://github.com/LucasErrNotFound/Pyro)
+[![Oogabooga](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=Oogabooga)](https://github.com/LucasErrNotFound/Oogabooga)
 [![moviefy](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=moviefy)](https://github.com/LucasErrNotFound/moviefy)
 [![WebAutoSearch](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=WebAutoSearch)](https://github.com/LucasErrNotFound/WebAutoSearch)
 [![Clipject](https://github-readme-stats.vercel.app/api/pin/?username=LucasErrNotFound&bg_color=1D2021&title_color=FABD2F&text_color=83A598&border_color=FB4934&icon_color=D3869B&theme=gruvbox&repo=Clipject)](https://github.com/LucasErrNotFound/Clipject)
